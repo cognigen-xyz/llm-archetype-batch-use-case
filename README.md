@@ -19,3 +19,6 @@ For a given set of input documents (`pdf` or `txt`), we apply an LLM to extract 
 8. Check the results in the `output` folder! 🎉 
 
 To configure input parameters such as paths, run `poetry run llm-batch run --help` or `poetry run llm-batch preprocess --help` to see what's possible.
+
+# Running Project on Macmini
+* use conda env llm_json_xtract
